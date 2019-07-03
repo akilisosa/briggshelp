@@ -1,0 +1,1 @@
+mvn sonar:sonar \ -Dsonar.projectKey=project-demo \  -Dsonar.organization=akilisosa-github \  -Dsonar.host.url=https://sonarcloud.io \  -Dsonar.login=eabff5d98558808480dbc32c348ce7874141bbd0

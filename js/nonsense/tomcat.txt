@@ -1,0 +1,35 @@
+cd appace-tomcat
+
+sh bin/startup sh
+
+tail -f log/catalina.out 
+
+sh bin/shutdown.sh  
+
+maven webb pages 
+
+create a web appace
+
+whenever he says add dependencies do some other shit 
+
+MAVAN WEB APP 
+
+appdependencies 
+
+add pom.xml 
+    servlet app    
+
+build mvn install generates 
+
+target project.war  
+
+then upload to s3 bucket and make the war file as public then do something else  
+
+then install it on tomcat 
+
+
+
+
+deploy var 
+
+
